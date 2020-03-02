@@ -1,0 +1,63 @@
+{
+	"nodes": [
+		{
+			"id": 0,
+			"label": "大白菜",
+			"category":"食物",
+			"attvalues": []
+		},
+		{
+			"id": 1,
+			"label": "胡萝卜",
+			"category":"食物",
+			"attvalues": []
+		},
+		{
+			"id": 2,
+			"label": "竹子",
+			"category":"食物",
+			"attvalues": []
+		},
+		{
+			"id": 3,
+			"label": "香蕉",
+			"category":"食物",
+			"attvalues": []
+		},
+		{
+			"id": 4,
+			"label": "熊猫",
+			"category":"动物",
+			"attvalues": []
+		},
+		{
+			"id": 5,
+			"label": "兔子",
+			"category":"动物",
+			"attvalues": []
+		},
+		{
+			"id": 6,
+			"label": "猴子",
+			"category":"动物",
+			"attvalues": []
+		}
+	],
+	"edges": [
+		{
+			"id": 1,
+			"source": 4,
+			"target": 2
+		},
+		{
+			"id": 2,
+			"source": 5,
+			"target": 0
+		},
+		{
+			"id": 3,
+			"source": 5,
+			"target": 1
+		}
+	]
+}
